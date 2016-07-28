@@ -8,7 +8,7 @@
 </head>
 <body>
 	
-	<a href="http://localhost:8080/TestJson/HelloWorld">get a json data</a>
+	<a href="./HelloWorld">get a json data</a>
 	
 </body>
 </html>
